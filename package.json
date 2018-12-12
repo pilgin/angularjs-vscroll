@@ -1,21 +1,21 @@
 {
-  "name": "angular-ui-scroll",
+  "name": "angularjs-vscroll",
   "description": "AngularJS infinite scrolling module",
   "version": "1.7.2",
   "src": "./src/",
   "public": "./dist/",
   "main": "./dist/ui-scroll.js",
-  "homepage": "https://github.com/angular-ui/ui-scroll",
+  "homepage": "https://github.com/pilgin/angularjs-vscroll",
   "author": {
-    "name": "Michael Feingold",
-    "email": "mfeingold@hill30.com"
+    "name": "Konstantin Pilyugin",
+    "email": "pil.gin@ya.ru"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-ui/ui-scroll.git"
+    "url": "https://github.com/pilgin/angularjs-vscroll.git"
   },
   "bugs": {
-    "url": "https://github.com/angular-ui/ui-scroll/issues"
+    "url": "https://github.com/pilgin/angularjs-vscroll/issues"
   },
   "license": "MIT",
   "scripts": {
